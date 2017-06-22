@@ -1,0 +1,8 @@
+{
+  "name": "victory-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ngub/victory-types.git",
+  "author": "Nikita Gubchenko <ngubchenko@changers.team>",
+  "license": "MIT"
+}
